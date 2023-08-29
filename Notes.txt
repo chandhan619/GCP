@@ -4,4 +4,6 @@ Want to add new Text file
 
 Changes are made online
 
-Made one more change to see changes
+Made one more change to see change
+
+Add a line Via VIM
