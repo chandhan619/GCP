@@ -11,3 +11,5 @@ Add a line Via VIM
 New CHanges
 
 New Branch
+
+Trigger the action runner
